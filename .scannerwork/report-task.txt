@@ -2,5 +2,5 @@ projectKey=angular-tour-of-heroes
 serverUrl=http://localhost:9000
 serverVersion=8.9.9.56886
 dashboardUrl=http://localhost:9000/dashboard?id=angular-tour-of-heroes
-ceTaskId=AYNq1V35lvqYeZMOedH0
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNq1V35lvqYeZMOedH0
+ceTaskId=AYN6f0w-SMtupxCAFb8h
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYN6f0w-SMtupxCAFb8h
