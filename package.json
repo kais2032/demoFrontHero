@@ -1,6 +1,6 @@
 {
   "name": "angular-tour-of-heroes",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "publishConfig": {
     "access": "public",
     "registry": "http://localhost:8081/repository/npm-private/"
